@@ -62,7 +62,7 @@ button:hover {
 /* Heading */
 h3,
 label[for='newtsk'] {
-	color: #eeebc5;
+	color: ##f4ea63;
 	font-weight: 700;
 	font-size: 15px;
 	border-bottom: 2px solid rgba(111, 161, 218, 0.513);
